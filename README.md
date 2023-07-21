@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajashekar25
-- 👀 I’m interested in CFD,FEA,ML. 
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on parallel programming. 
+- 👀 I’m interested in C, C++, HPC, CFD, FEA, ML. 
+- 🌱 I’m currently learning building applications.
+- 💞️ I’m looking to collaborate on C++, CFD projects. 
 - 📫 How to reach me (phanindrarajashekar04@gmail.com)
 
 <!---
