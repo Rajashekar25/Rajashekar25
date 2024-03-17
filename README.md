@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajashekar25
 - 👀 I’m interested in C/C++, Python, HPC, CFD, FEA, ML. 
-- 🌱 I’m currently learning Build systems.
+- 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on C++, CFD projects. 
 - 📫 How to reach me (phanindrarajashekar04@gmail.com)
 
